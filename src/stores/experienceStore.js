@@ -3,8 +3,22 @@ import { defineStore } from 'pinia'
 export const useExperienceStore = defineStore('experience', {
   state: () => ({
     experiences: [
+      {   
+        id: '001',
+           title: 'Cultural Heritage Tech Specialist | Bridging Museums and Tech',
+           timeframe: 'January 2025 - Today',
+           location: 'ProDenkmal GmbH',
+           description: [
+          'I work at the intersection of museums, technology, and user experience, digitizing collections and improving databases. My role involves:',
+'- Photography & Archiving - Capturing high-quality images for digital access.',
+'- Data Management & Digitalization - Structuring and documenting collection data.'   
+          ],
+           details: '',
+           images: [],
+           links: []
+         },
 {   
-     id: '001',
+     id: '002',
         title: 'Herding Cats Travel App',
         timeframe: 'May 2024 - Today',
         location: 'Originally the final project in Bootcamp, now a platform for learning new things.',
@@ -43,7 +57,7 @@ export const useExperienceStore = defineStore('experience', {
         ]
       },
       {
-        id: '002',
+        id: '003',
         title: 'Web Developer Training',
         timeframe: 'January 2024 - April 2024',
         location: 'Coding Bootcamps Europe',
@@ -60,7 +74,7 @@ export const useExperienceStore = defineStore('experience', {
         links: []
       },
       {
-        id: '003',
+        id: '004',
         title: 'Web Content Manager & Museum Manager',
         timeframe: 'February 2022 - December 2023',
         location: 'Municipal Office Wutha-Farnroda, Germany',
@@ -72,7 +86,7 @@ export const useExperienceStore = defineStore('experience', {
         links: []
       },
       {
-        id: '004',
+        id: '005',
         title: 'Freelance Photographer',
         timeframe: 'September 2006 - April 2021',
         location: 'Gustav Hersmann Photography, Nyköping, Sweden',
@@ -88,7 +102,7 @@ export const useExperienceStore = defineStore('experience', {
         }]
       },
       {
-        id: '005',
+        id: '006',
         title: 'Museum Curator & Tour Guide',
         timeframe: 'June 2004 - May 2019',
         location: 'Sörmlands Museum, Nyköping, Sweden',
@@ -101,7 +115,7 @@ export const useExperienceStore = defineStore('experience', {
         links: []
       },
       {
-        id: '006',
+        id: '007',
         title: 'Retail Salesperson and Web Developer',
         timeframe: 'June 2000 - August 2002',
         location: 'Bildettan Photo Store, Nyköping, Sweden',
