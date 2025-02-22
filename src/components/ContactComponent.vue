@@ -17,12 +17,17 @@
     <h1>Downloads</h1>
     <section class="contact-grid-column">
       <ul class="contact-item">
-        <li><a href="/cv/cv-gustav-hersmann-english.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
-        <li><a href="/cv/cv-gustav-hersmann-english.pdf" target="_blank">Resumé in English.pdf</a></li>
+        <li><a href="/cv/gustav-hersmann-resume-v31-english.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="/cv/gustav-hersmann-resume-v31-english.pdf" target="_blank">Resumé in English.pdf</a></li>
       </ul>
       <ul class="contact-item">
-        <li><a href="/cv/lebenslauf-gustav-hersmann-deutsch.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
-        <li><a href="/cv/lebenslauf-gustav-hersmann-deutsch.pdf" target="_blank">Lebenslauf auf Deutsch.pdf</a></li></ul>
+        <li><a href="/cv/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="/cv/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank">Lebenslauf auf Deutsch.pdf</a></li>
+      </ul>
+      <ul class="contact-item">
+        <li><a href="/cv/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="/cv/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank">CV på Svenska.pdf</a></li>
+      </ul>
     </section>
   </article>
 </template>
