@@ -17,16 +17,16 @@
     <h1>Downloads</h1>
     <section class="contact-grid-column">
       <ul class="contact-item">
-        <li><a href="/cv/gustav-hersmann-resume-v31-english.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
-        <li><a href="/cv/gustav-hersmann-resume-v31-english.pdf" target="_blank">Resumé in English.pdf</a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-resume-v31-english.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-resume-v31-english.pdf" target="_blank">Resumé in English.pdf</a></li>
       </ul>
       <ul class="contact-item">
-        <li><a href="/cv/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
-        <li><a href="/cv/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank">Lebenslauf auf Deutsch.pdf</a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-lebenslauf-v31-deutsch.pdf" target="_blank">Lebenslauf auf Deutsch.pdf</a></li>
       </ul>
       <ul class="contact-item">
-        <li><a href="/cv/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
-        <li><a href="/cv/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank">CV på Svenska.pdf</a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank"><img class="cv-img" src="/cv/cv-gustav-hersmann-english-thumbnail.png" width="100px"></a></li>
+        <li><a href="https://3cv-bucket.s3.eu-north-1.amazonaws.com/pdfs/gustav-hersmann-cv-v3-1-svenska.pdf" target="_blank">CV på Svenska.pdf</a></li>
       </ul>
     </section>
   </article>
