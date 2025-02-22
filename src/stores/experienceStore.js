@@ -24,7 +24,7 @@ export const useExperienceStore = defineStore('experience', {
         location: 'Originally the final project in Bootcamp, now a platform for learning new things.',
         description: [
           'An app for sharing information among group travel participants, e. g. Flight Itineraries or Hotel Bookings. I designed and developed the UI/UX in Figma.',
-          'Since graduating from bootcamp, I have used this project to learn:',
+          'After bootcamp, I used this project to learn:',
           '- Developing an Express.js backend with MongoDB Atlas database for user and travel data.',
           '- Building, testing and deploying on Render, while using Git for version control.',
           '- Refactoring code based on the principle: "Copied code is the root of all evil."',
@@ -62,7 +62,7 @@ export const useExperienceStore = defineStore('experience', {
         timeframe: 'January 2024 - April 2024',
         location: 'Coding Bootcamps Europe',
         description: [
-          'This completed a journey that began as a hobby in 1996, when I taught myself HTML and built my first website. I joined the Bootcamp to turn this passion into a profession.',
+          'This marked the completion of a journey that began as a hobby in 1996, when I taught myself HTML and built my first website. I joined the Bootcamp to turn this passion into a profession.',
           'Bootcamp contents: HTML, CSS, JavaScript, Vue.js, Figma, Git, Cypress, Web Accessibility WCAG 2.1, NPM, Node.js, Agile Project Organisation',
         'Example Projects:',
 '- Todo List App: Initially developed using JavaScript and later remade with Vue.js and RESTful APIs.',
@@ -107,7 +107,7 @@ export const useExperienceStore = defineStore('experience', {
         timeframe: 'June 2004 - May 2019',
         location: 'Sörmlands Museum, Nyköping, Sweden',
         description: [
-            'My main task was to design and build engaging museum experiences, for example new exhibitions or guided tours. Focusing on how visitors navigate exhibitions and what they see, hear, and feel. In essence: UX development for museums',
+            'My main task was designing and building engaging museum experiences, such as exhibitions and guided tours. Focusing on how visitors navigate exhibitions and what they see, hear, and feel. In essence: UX development for museums.',
             'Besides that, I lead the training of new tour guides, being responsible for teaching new employees how to communicate in a professional and engaging manner.',
             'I was also involved in the team that developed new guided tours and info material in Swedish, English, and German.'
         ],
