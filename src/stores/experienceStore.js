@@ -15,7 +15,18 @@ export const useExperienceStore = defineStore('experience', {
           ],
            details: '',
            images: [],
-           links: []
+           links: [
+            {
+              link: 'https://www.prodenkmal.de/de/',
+              linkText: 'Prodenkmal GmbH',
+              routerLinkText: 'Check out my current employer'        
+          },
+          {
+            link: 'https://www.stiftung-friedenstein.de/aktuell/gotha-transdigital-2027',
+            linkText: 'Gotha Transdigital 2027',
+            routerLinkText: `The current project I'm working on`       
+        }
+           ]
          },
 {   
      id: '002',
@@ -79,11 +90,17 @@ export const useExperienceStore = defineStore('experience', {
         timeframe: 'February 2022 - December 2023',
         location: 'Municipal Office Wutha-Farnroda, Germany',
         description: [
-            'I Developed the UX and content for a new, more user-friendly, and accessible website in collaboration with a Web developer using Contao CMS. Available here: wutha-farnroda.de.',
+            'I Developed the UX and content for a new, more user-friendly, and accessible website in collaboration with a Web developer using Contao CMS.',
             'Head of operations at the Hörselberg Museum, including serving as project leader for two exhibitions, overseeing everything from planning and producing content to managing the budget.'
         ],
         images: [],
-        links: []
+        links: [ 
+          {
+          link: 'https://www.wutha-farnroda.de',
+          linkText: 'wutha-farnroda.de',
+          routerLinkText: `The website we developed`       
+      }
+    ]
       },
       {
         id: '005',
@@ -96,8 +113,8 @@ export const useExperienceStore = defineStore('experience', {
         ],
         images: [],
         links: [{
-            link: 'https://www.gustavhersmann.com/photo',
-            linkText: 'gustavhersmann.com/photo',
+            link: 'https://photo.gustavhersmann.com/',
+            linkText: 'photo.gustavhersmann.com',
             routerLinkText: 'Photography Portfolio' 
         }]
       },
@@ -112,7 +129,13 @@ export const useExperienceStore = defineStore('experience', {
             'I was also involved in the team that developed new guided tours and info material in Swedish, English, and German.'
         ],
         images: [],
-        links: []
+        links: [
+          {
+            link: 'https://www.sormlandsmuseum.se/',
+            linkText: 'www.sormlandsmuseum.se',
+            routerLinkText: 'My former employer' 
+        }
+        ]
       },
       {
         id: '007',
