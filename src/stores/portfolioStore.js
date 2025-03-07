@@ -101,7 +101,8 @@ export const usePortfolioStore = defineStore('portfolio', {
             alt: "Swedish band 'The Supersonic.' Created for the promotion of their debut record."
           }
         ],
-        routerLink: { path: '/photo' },
+        link: 'https://photo.gustavhersmann.com/',
+        linkText: 'Full Photography Portfolio',
         routerLinkText: 'Photography Portfolio'
       },
       {
